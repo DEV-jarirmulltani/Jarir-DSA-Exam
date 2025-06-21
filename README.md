@@ -2,6 +2,7 @@
 # 1 Linked_List
 ![Screenshot 2025-06-21 140629](https://github.com/user-attachments/assets/e1aec8a1-353b-442e-ba2c-75429109d69a)
 ![Screenshot 2025-06-21 140647](https://github.com/user-attachments/assets/6088019d-bae6-4f32-9126-6ff67c619e25)
+
 ![Screenshot 2025-06-21 140715](https://github.com/user-attachments/assets/29a4a27a-e6aa-4217-9bf1-f92934018429)
 
 #2 Sorting And Binary Search.
